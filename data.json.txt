@@ -1,6 +1,6 @@
 [
-   "Umaru Bot",
-   "Re-Made by John Lester",
-   "FB: https://facebook.com/rootalocalhost.dev",
-   "John Lester"
+   "Arif vau bot",
+   "Re-Made by THE REBEL ARIF VAU",
+   "FB: https://www.facebook.com/arif.vau.40",
+   "THE REBEL ARIF VAU"
 ]
